@@ -3,7 +3,7 @@
 
 ## 📌 Overview  
 This project implements a **brute-force backtracking algorithm** to find **Eulerian circuits** in **undirected graphs**.  
-It was developed as part of **CPS420 (Algorithm Design) at Toronto Metropolitan University**.  
+It was developed as part of **CPS420 (Discrete Structures) at Toronto Metropolitan University**.  
 
 ## 🖥️ Features  
 - ✅ Uses **DFS traversal** and **graph connectivity checks** to determine Eulerian properties.  
